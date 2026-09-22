@@ -25,4 +25,4 @@ Chess, football, and books.
 ## Contact
 
 - Email: hedi.rhouma@ird.fr
-- LinkedIn: [your link here]
+- LinkedIn: https://www.linkedin.com/in/mohamed-hedi-rhouma/
