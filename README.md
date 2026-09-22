@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mohamed Hedi Rhouma
 
-<!--
-**Mohamed-Hedi-Rhoma/Mohamed-Hedi-Rhoma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD student at CESBIO in Toulouse, working with IRD. My thesis is about
+mapping water needs in semi-arid regions, which in practice means I spend most
+of my days trying to get satellite images to tell me what vegetation is doing
+on the ground.
 
-Here are some ideas to get you started:
+What I like most is mixing deep learning with physical models. Instead of
+relying only on labeled data, which is rare in remote sensing, I try to build
+models that respect the physics of how light interacts with plants and soil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before the PhD, I studied Information and Communication Technology at
+Sup'COM in Tunis, specializing in image applications. I also spent some time
+working on LLMs and chatbots, which was a fun detour before coming back to
+satellites.
+
+## Tools I use
+
+Python, PyTorch, Google Earth Engine, Dask, and a lot of GeoTIFFs.
+
+## Outside of work
+
+Chess, football, and books.
+
+## Contact
+
+- Email: hedi.rhouma@ird.fr
+- LinkedIn: [your link here]
