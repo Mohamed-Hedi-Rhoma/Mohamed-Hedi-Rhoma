@@ -18,10 +18,6 @@ satellites.
 
 Python, PyTorch, Google Earth Engine, Dask, and a lot of GeoTIFFs.
 
-## Outside of work
-
-Chess, football, and books.
-
 ## Contact
 
 - Email: hedi.rhouma@ird.fr
